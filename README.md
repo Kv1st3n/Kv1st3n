@@ -1,6 +1,6 @@
 # Kv1st3n
 
-I'm a master's (graduate / M.Sc.) student in Computer and Systems Sciences.
+I'm a master's (graduate / M.Sc.) student in Computer and Systems Sciences at Stockholms University.
 
 #
 
