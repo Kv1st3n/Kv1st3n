@@ -1,6 +1,6 @@
 # Kv1st3n
 
-I'm a master's (graduate / M.Sc.) student in Computer and Systems Sciences at Stockholms University.
+I'm a master's (graduate / M.Sc.) student in Computer and Systems Sciences at Stockholms University, specializing in Data Science and Cybersecurity.
 I enjoy building simple to use software with an interest in emulation and 3D graphics.
 
 #
