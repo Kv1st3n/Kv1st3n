@@ -20,8 +20,3 @@ I enjoy building simple to use software with an interest in emulation and 3D gra
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=python&logoColor=white)
 #
-### Survival Analysis Libraries
-![Lifelines](https://img.shields.io/badge/lifelines-%23008080.svg?style=for-the-badge&logo=python&logoColor=white)
-![scikit-survival](https://img.shields.io/badge/scikit--survival-%23334155.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyCox](https://img.shields.io/badge/PyCox-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![PySurvival](https://img.shields.io/badge/PySurvival-%232563EB.svg?style=for-the-badge&logo=python&logoColor=white)
